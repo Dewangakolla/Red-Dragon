@@ -32,10 +32,10 @@ global.botname = ' ☬LOKU༒BOSA࿐' //Bot Name
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://youtu.be/yCtB8TPZN5Q' //Change Your Button's URL
 
-global.region = 'India, South India, Kerala' //Country Region
+global.region = 'Sri lanka' //Country Region
 
-global.packname = '☬LOKU༒BOSA࿐' //Bot Pacage Name
-global.author = '😎DEWANGA THEAKSHANA AKASH ❯❯' //Author Name
+global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
+global.author = '😎K. ❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
@@ -45,7 +45,7 @@ global.chatbotpre = 'false'  // Chat bot true/false
 
 global.ig = 'https://github.com/prabhasha2006' //Github Account!
 
-global.mess = { // SI
+global.mess = { // SINHALA
 	
     success: 'Done ✅',
     admin: 'Only Admins can use it!😉',
